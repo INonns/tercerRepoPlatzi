@@ -1,0 +1,7 @@
+README.md
+setup.py
+tercerRepoPlatzi/__init__.py
+tercerRepoPlatzi.egg-info/PKG-INFO
+tercerRepoPlatzi.egg-info/SOURCES.txt
+tercerRepoPlatzi.egg-info/dependency_links.txt
+tercerRepoPlatzi.egg-info/top_level.txt
